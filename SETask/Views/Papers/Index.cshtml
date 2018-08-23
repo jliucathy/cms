@@ -1,0 +1,83 @@
+﻿@model IEnumerable<SETask.Models.Paper>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+<table class="table" id="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AspNetUser.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Conference.Conference_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.keyWords)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Abstract)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperFile)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SubmitDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Published)
+        </th>
+        <th></th>
+    </tr>
+        </thead>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AspNetUser.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Conference.Conference_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.keyWords)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Abstract)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PaperFile)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SubmitDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Published)
+        </td>
+        <td>
+            @Html.ActionLink("Details", "Details", new { id=item.PaperId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PaperId })|
+            @if (item.Conference.ChairId.Equals(ViewBag.CurrentUserId))
+            {
+            @Html.ActionLink("Edit", "Edit", new { id = item.PaperId, conferenceId = item.ConferenceId });
+            }
+            |
+            @if (item.Conference.ChairId.Equals(ViewBag.CurrentUserId))
+            {
+                @Html.ActionLink("Inform", "Inform", new { id = item.AspNetUser.Id })
+            }
+        </td>
+    </tr>
+}
+
+</table>

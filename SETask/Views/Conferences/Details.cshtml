@@ -1,0 +1,83 @@
+﻿@model SETask.Models.Conference
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Conference</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AspNetUser.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AspNetUser.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Conference_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Conference_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Topic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Topic)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaperDeadLine)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaperDeadLine)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StartingDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartingDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaximumNoOfPaperSubmitted)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaximumNoOfPaperSubmitted)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaximumNoOfPaperPublished)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaximumNoOfPaperPublished)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ConferenceId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

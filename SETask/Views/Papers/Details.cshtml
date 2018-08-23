@@ -1,0 +1,148 @@
+﻿@model SETask.Models.Paper
+
+@{
+    ViewBag.Title = Model.Title;
+    var comments = (IEnumerable<SETask.Models.Review>)ViewBag.Comments;
+    int ratingSum = ViewBag.RatingSum;
+    int ratingCount = ViewBag.RatingCount;
+
+    int rating = 0;
+    if (ratingCount > 0)
+    {
+        rating = (ratingSum / ratingCount);
+    }
+    var totalRating = int.Parse(rating.ToString());
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Title</h2>
+
+<div>
+    @for (var i = 1; i <= totalRating; i++)
+    {
+        <span class="starGlowN"></span>
+    }
+    @for (var i = totalRating + 1; i <= 5; i++)
+    {
+        <span class="starFadeN"></span>
+    }
+</div>
+<div>
+    <h4>Paper</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AspNetUser.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AspNetUser.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Conference.Conference_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Conference.Conference_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.keyWords)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.keyWords)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Abstract)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Abstract)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaperFile)
+        </dt>
+
+        <dd>
+            @Html.ActionLink(
+           linkText: Model.PaperFile,
+           controllerName: "Papers",
+           actionName: "ListFile",
+
+           routeValues: new
+           {
+               FileName = Model.PaperFile
+           },
+           htmlAttributes: null
+           )
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SubmitDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SubmitDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Published)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Published)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PaperId }) |
+    @Html.ActionLink("Back to List", "Index",new { ConferenceId = Model.Conference.ConferenceId })|
+    @if (ratingCount < 4)
+    {
+        @Html.ActionLink("Assign to reviewers", "Create", "Reviews", new { paperId = Model.PaperId }, null)
+    }
+</p>
+@foreach (var c in comments)
+{
+    <hr />
+    <div class="row">
+        <div class="col-md-3">
+            <br />
+            @for (var i = 1; i <= c.Rating; i++)
+            {
+                <span class="starGlowN"></span>
+            }
+            @for (var i = (c.Rating + 1); i <= 5; i++)
+            {
+                <span class="starFadeN"></span>
+            }
+        </div>
+        <div class="col-md-9">
+            @Html.Raw(c.Comment.Replace("\n", "<br />"))
+        </div>
+    </div>
+}
+
+<script>
+    function SCRate() {
+        for (var i = 1; i <= @totalRating; i++) {
+            $("#sRate" + i).attr('class', 'starGlowN');
+        }
+    }
+    $(function(){
+        SCRate();
+    });
+</script>

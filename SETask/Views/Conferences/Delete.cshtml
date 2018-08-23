@@ -1,0 +1,81 @@
+﻿@model SETask.Models.Conference
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Conference</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AspNetUser.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AspNetUser.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Conference_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Conference_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaperDeadLine)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaperDeadLine)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StartingDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartingDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaximumNoOfPaperSubmitted)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaximumNoOfPaperSubmitted)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaximumNoOfPaperPublished)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaximumNoOfPaperPublished)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,45 @@
+CREATE TABLE [dbo].[Conference] (
+    [ConferenceId]              INT            IDENTITY (1, 1) NOT NULL,
+    [Conference Name]           NVARCHAR (50)  NOT NULL,
+    [PaperDeadLine]             DATE           NOT NULL,
+    [Location]                  NVARCHAR (50)  NOT NULL,
+    [StartingDate]              NVARCHAR (50)  NOT NULL,
+    [MaximumNoOfPaperSubmitted] INT            NOT NULL,
+    [MaximumNoOfPaperPublished] INT            NOT NULL,
+    [ChairId]                   NVARCHAR (128) NOT NULL,
+    PRIMARY KEY CLUSTERED ([ConferenceId] ASC),
+    CONSTRAINT [FK_Conference_AspNetUsers] FOREIGN KEY ([ChairId]) REFERENCES [dbo].[AspNetUsers] ([Id])
+);
+
+
+CREATE TABLE [dbo].[Paper] (
+    [PaperId]      INT            IDENTITY (1, 1) NOT NULL,
+    [Title]        NVARCHAR (50)  NOT NULL,
+    [keyWords]     NVARCHAR (50)  NOT NULL,
+    [Abstract]     NVARCHAR (MAX) NOT NULL,
+    [PaperFile]    NVARCHAR (50)  NOT NULL,
+    [ConferenceId] INT            NOT NULL,
+    [AuthorId]     NVARCHAR (128) NOT NULL,
+    [SubmitDate]   DATE           NOT NULL,
+    [Published]    BIT            DEFAULT ((0)) NOT NULL,
+    PRIMARY KEY CLUSTERED ([PaperId] ASC),
+    CONSTRAINT [Fk_Paper_AspNetUsers] FOREIGN KEY ([AuthorId]) REFERENCES [dbo].[AspNetUsers] ([Id]),
+    CONSTRAINT [FK_Paper_Conference] FOREIGN KEY ([ConferenceId]) REFERENCES [dbo].[Conference] ([ConferenceId]) ON DELETE CASCADE
+);
+
+
+CREATE TABLE [dbo].[Review] (
+    [ReviewId]   INT            IDENTITY (1, 1) NOT NULL,
+    [Rating]     INT            NOT NULL,
+    [Comment]    VARCHAR (MAX)  NOT NULL,
+    [PaperId]    INT            NOT NULL,
+    [ReviewerId] NVARCHAR (128) NOT NULL,
+    PRIMARY KEY CLUSTERED ([ReviewId] ASC),
+    CONSTRAINT [FK_Review_AspNetUsers] FOREIGN KEY ([ReviewerId]) REFERENCES [dbo].[AspNetUsers] ([Id]),
+    CONSTRAINT [FK_Review_Paper] FOREIGN KEY ([PaperId]) REFERENCES [dbo].[Paper] ([PaperId]) ON DELETE CASCADE
+);
+
+
+
+    [ExpertiseField]       NVARCHAR (50)  NULL,
+    [University]           NVARCHAR (50)  NULL,

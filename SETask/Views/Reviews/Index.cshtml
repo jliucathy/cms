@@ -1,0 +1,54 @@
+﻿@model IEnumerable<SETask.Models.Review>
+
+@{
+    ViewBag.Title = "Reviews List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Reviews List</h2>
+
+
+<p>
+    @*@Html.ActionLink("Create New", "Index","Papers")*@
+</p>
+<table class="table" id="table">
+<thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AspNetUser.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Paper.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rating)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comment)
+        </th>
+        <th></th>
+    </tr>
+</thead>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AspNetUser.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Paper.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rating)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comment)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ReviewId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ReviewId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ReviewId })|
+        </td>
+    </tr>
+}
+
+</table>

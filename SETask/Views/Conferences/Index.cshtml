@@ -1,0 +1,79 @@
+﻿@model IEnumerable<SETask.Models.Conference>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table" id="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AspNetUser.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Conference_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Topic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperDeadLine)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Location)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartingDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MaximumNoOfPaperSubmitted)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MaximumNoOfPaperPublished)
+        </th>
+        <th></th>
+    </tr>
+        </thead>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AspNetUser.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Conference_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Topic)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PaperDeadLine)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Location)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartingDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaximumNoOfPaperSubmitted)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaximumNoOfPaperPublished)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ConferenceId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ConferenceId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ConferenceId })|
+            @Html.ActionLink("Submit Paper","Create","Papers",new { ConferenceId = item.ConferenceId},null)|
+            @Html.ActionLink("View Paper","Index","Papers",new { ConferenceId = item.ConferenceId},null)
+        </td>
+    </tr>
+}
+
+</table>

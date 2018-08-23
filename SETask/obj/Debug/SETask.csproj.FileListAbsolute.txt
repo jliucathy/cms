@@ -1,0 +1,575 @@
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\ApplicationInsights.config
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\csc.exe
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\vbc.exe
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\VBCSCompiler.exe
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\SETask.dll.config
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\SETask.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\SETask.pdb
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Antlr3.Runtime.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\EntityFramework.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\EntityFramework.SqlServer.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AI.Web.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AI.WindowsServer.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.ApplicationInsights.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.Google.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Newtonsoft.Json.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Owin.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.Helpers.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.Mvc.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.Optimization.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.Razor.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.WebPages.Deployment.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.WebPages.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.WebPages.Razor.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\WebGrease.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AI.Web.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AI.WindowsServer.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.ApplicationInsights.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.Helpers.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.Mvc.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.Optimization.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.Razor.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.WebPages.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.WebPages.Deployment.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\System.Web.WebPages.Razor.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Antlr3.Runtime.pdb
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Newtonsoft.Json.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\EntityFramework.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\EntityFramework.SqlServer.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.Google.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\obj\Debug\SETask.csprojResolveAssemblyReference.cache
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\obj\Debug\SETask.dll
+c:\users\gavin\documents\visual studio 2015\Projects\SETask\SETask\obj\Debug\SETask.pdb
+Z:\36\SETask\SETask\bin\ApplicationInsights.config
+Z:\36\SETask\SETask\bin\roslyn\csc.exe
+Z:\36\SETask\SETask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\36\SETask\SETask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\36\SETask\SETask\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\36\SETask\SETask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\36\SETask\SETask\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\36\SETask\SETask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\36\SETask\SETask\bin\roslyn\System.Collections.Immutable.dll
+Z:\36\SETask\SETask\bin\roslyn\System.Reflection.Metadata.dll
+Z:\36\SETask\SETask\bin\roslyn\vbc.exe
+Z:\36\SETask\SETask\bin\roslyn\VBCSCompiler.exe
+Z:\36\SETask\SETask\bin\roslyn\VBCSCompiler.exe.config
+Z:\36\SETask\SETask\bin\SETask.dll.config
+Z:\36\SETask\SETask\bin\SETask.dll
+Z:\36\SETask\SETask\bin\SETask.pdb
+Z:\36\SETask\SETask\bin\Antlr3.Runtime.dll
+Z:\36\SETask\SETask\bin\EntityFramework.dll
+Z:\36\SETask\SETask\bin\EntityFramework.SqlServer.dll
+Z:\36\SETask\SETask\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\36\SETask\SETask\bin\Microsoft.AI.DependencyCollector.dll
+Z:\36\SETask\SETask\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\36\SETask\SETask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\36\SETask\SETask\bin\Microsoft.AI.Web.dll
+Z:\36\SETask\SETask\bin\Microsoft.AI.WindowsServer.dll
+Z:\36\SETask\SETask\bin\Microsoft.ApplicationInsights.dll
+Z:\36\SETask\SETask\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\36\SETask\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\36\SETask\SETask\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\36\SETask\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\36\SETask\SETask\bin\Microsoft.Owin.dll
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.dll
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.Google.dll
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\36\SETask\SETask\bin\Microsoft.Web.Infrastructure.dll
+Z:\36\SETask\SETask\bin\Newtonsoft.Json.dll
+Z:\36\SETask\SETask\bin\Owin.dll
+Z:\36\SETask\SETask\bin\System.Web.Helpers.dll
+Z:\36\SETask\SETask\bin\System.Web.Mvc.dll
+Z:\36\SETask\SETask\bin\System.Web.Optimization.dll
+Z:\36\SETask\SETask\bin\System.Web.Razor.dll
+Z:\36\SETask\SETask\bin\System.Web.WebPages.Deployment.dll
+Z:\36\SETask\SETask\bin\System.Web.WebPages.dll
+Z:\36\SETask\SETask\bin\System.Web.WebPages.Razor.dll
+Z:\36\SETask\SETask\bin\WebGrease.dll
+Z:\36\SETask\SETask\bin\Microsoft.AI.DependencyCollector.xml
+Z:\36\SETask\SETask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\36\SETask\SETask\bin\Microsoft.AI.Web.xml
+Z:\36\SETask\SETask\bin\Microsoft.AI.WindowsServer.xml
+Z:\36\SETask\SETask\bin\Microsoft.ApplicationInsights.xml
+Z:\36\SETask\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\36\SETask\SETask\bin\System.Web.Helpers.xml
+Z:\36\SETask\SETask\bin\System.Web.Mvc.xml
+Z:\36\SETask\SETask\bin\System.Web.Optimization.xml
+Z:\36\SETask\SETask\bin\System.Web.Razor.xml
+Z:\36\SETask\SETask\bin\System.Web.WebPages.xml
+Z:\36\SETask\SETask\bin\System.Web.WebPages.Deployment.xml
+Z:\36\SETask\SETask\bin\System.Web.WebPages.Razor.xml
+Z:\36\SETask\SETask\bin\Antlr3.Runtime.pdb
+Z:\36\SETask\SETask\bin\Newtonsoft.Json.xml
+Z:\36\SETask\SETask\bin\EntityFramework.xml
+Z:\36\SETask\SETask\bin\EntityFramework.SqlServer.xml
+Z:\36\SETask\SETask\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\36\SETask\SETask\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\36\SETask\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\36\SETask\SETask\bin\Microsoft.Owin.xml
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.xml
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.Google.xml
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\36\SETask\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\36\SETask\SETask\obj\Debug\SETask.dll
+Z:\36\SETask\SETask\obj\Debug\SETask.pdb
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\ApplicationInsights.config
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\csc.exe
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\vbc.exe
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\SETask.dll.config
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\SETask.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\SETask.pdb
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Antlr3.Runtime.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\EntityFramework.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\EntityFramework.SqlServer.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AI.Web.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Newtonsoft.Json.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Owin.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.Helpers.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.Mvc.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.Optimization.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.Razor.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.WebPages.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\WebGrease.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AI.Web.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.Helpers.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.Mvc.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.Optimization.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.Razor.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.WebPages.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Antlr3.Runtime.pdb
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Newtonsoft.Json.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\EntityFramework.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\EntityFramework.SqlServer.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\obj\Debug\SETask.csprojResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\obj\Debug\SETask.dll
+C:\Users\Gavin\Desktop\SETaskv2.0\SETask\obj\Debug\SETask.pdb
+Z:\36\SETaskv2.0\SETask\bin\ApplicationInsights.config
+Z:\36\SETaskv2.0\SETask\bin\roslyn\csc.exe
+Z:\36\SETaskv2.0\SETask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\36\SETaskv2.0\SETask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\36\SETaskv2.0\SETask\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\36\SETaskv2.0\SETask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\36\SETaskv2.0\SETask\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\36\SETaskv2.0\SETask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\36\SETaskv2.0\SETask\bin\roslyn\System.Collections.Immutable.dll
+Z:\36\SETaskv2.0\SETask\bin\roslyn\System.Reflection.Metadata.dll
+Z:\36\SETaskv2.0\SETask\bin\roslyn\vbc.exe
+Z:\36\SETaskv2.0\SETask\bin\roslyn\VBCSCompiler.exe
+Z:\36\SETaskv2.0\SETask\bin\roslyn\VBCSCompiler.exe.config
+Z:\36\SETaskv2.0\SETask\bin\SETask.dll.config
+Z:\36\SETaskv2.0\SETask\bin\SETask.dll
+Z:\36\SETaskv2.0\SETask\bin\SETask.pdb
+Z:\36\SETaskv2.0\SETask\bin\Antlr3.Runtime.dll
+Z:\36\SETaskv2.0\SETask\bin\EntityFramework.dll
+Z:\36\SETaskv2.0\SETask\bin\EntityFramework.SqlServer.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AI.DependencyCollector.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AI.Web.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AI.WindowsServer.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.ApplicationInsights.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Google.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Web.Infrastructure.dll
+Z:\36\SETaskv2.0\SETask\bin\Newtonsoft.Json.dll
+Z:\36\SETaskv2.0\SETask\bin\Owin.dll
+Z:\36\SETaskv2.0\SETask\bin\System.Web.Helpers.dll
+Z:\36\SETaskv2.0\SETask\bin\System.Web.Mvc.dll
+Z:\36\SETaskv2.0\SETask\bin\System.Web.Optimization.dll
+Z:\36\SETaskv2.0\SETask\bin\System.Web.Razor.dll
+Z:\36\SETaskv2.0\SETask\bin\System.Web.WebPages.Deployment.dll
+Z:\36\SETaskv2.0\SETask\bin\System.Web.WebPages.dll
+Z:\36\SETaskv2.0\SETask\bin\System.Web.WebPages.Razor.dll
+Z:\36\SETaskv2.0\SETask\bin\WebGrease.dll
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AI.DependencyCollector.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AI.Web.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AI.WindowsServer.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.ApplicationInsights.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\36\SETaskv2.0\SETask\bin\System.Web.Helpers.xml
+Z:\36\SETaskv2.0\SETask\bin\System.Web.Mvc.xml
+Z:\36\SETaskv2.0\SETask\bin\System.Web.Optimization.xml
+Z:\36\SETaskv2.0\SETask\bin\System.Web.Razor.xml
+Z:\36\SETaskv2.0\SETask\bin\System.Web.WebPages.xml
+Z:\36\SETaskv2.0\SETask\bin\System.Web.WebPages.Deployment.xml
+Z:\36\SETaskv2.0\SETask\bin\System.Web.WebPages.Razor.xml
+Z:\36\SETaskv2.0\SETask\bin\Antlr3.Runtime.pdb
+Z:\36\SETaskv2.0\SETask\bin\Newtonsoft.Json.xml
+Z:\36\SETaskv2.0\SETask\bin\EntityFramework.xml
+Z:\36\SETaskv2.0\SETask\bin\EntityFramework.SqlServer.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Google.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\36\SETaskv2.0\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\36\SETaskv2.0\SETask\obj\Debug\SETask.csprojResolveAssemblyReference.cache
+Z:\36\SETaskv2.0\SETask\obj\Debug\SETask.dll
+Z:\36\SETaskv2.0\SETask\obj\Debug\SETask.pdb
+Z:\36\SETaskv3.0\SETask\bin\ApplicationInsights.config
+Z:\36\SETaskv3.0\SETask\bin\roslyn\csc.exe
+Z:\36\SETaskv3.0\SETask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\36\SETaskv3.0\SETask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\36\SETaskv3.0\SETask\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\36\SETaskv3.0\SETask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\36\SETaskv3.0\SETask\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\36\SETaskv3.0\SETask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\36\SETaskv3.0\SETask\bin\roslyn\System.Collections.Immutable.dll
+Z:\36\SETaskv3.0\SETask\bin\roslyn\System.Reflection.Metadata.dll
+Z:\36\SETaskv3.0\SETask\bin\roslyn\vbc.exe
+Z:\36\SETaskv3.0\SETask\bin\roslyn\VBCSCompiler.exe
+Z:\36\SETaskv3.0\SETask\bin\roslyn\VBCSCompiler.exe.config
+Z:\36\SETaskv3.0\SETask\bin\SETask.dll.config
+Z:\36\SETaskv3.0\SETask\bin\SETask.dll
+Z:\36\SETaskv3.0\SETask\bin\SETask.pdb
+Z:\36\SETaskv3.0\SETask\bin\Antlr3.Runtime.dll
+Z:\36\SETaskv3.0\SETask\bin\EntityFramework.dll
+Z:\36\SETaskv3.0\SETask\bin\EntityFramework.SqlServer.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AI.DependencyCollector.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AI.Web.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AI.WindowsServer.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.ApplicationInsights.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.Google.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Web.Infrastructure.dll
+Z:\36\SETaskv3.0\SETask\bin\Newtonsoft.Json.dll
+Z:\36\SETaskv3.0\SETask\bin\Owin.dll
+Z:\36\SETaskv3.0\SETask\bin\System.Web.Helpers.dll
+Z:\36\SETaskv3.0\SETask\bin\System.Web.Mvc.dll
+Z:\36\SETaskv3.0\SETask\bin\System.Web.Optimization.dll
+Z:\36\SETaskv3.0\SETask\bin\System.Web.Razor.dll
+Z:\36\SETaskv3.0\SETask\bin\System.Web.WebPages.Deployment.dll
+Z:\36\SETaskv3.0\SETask\bin\System.Web.WebPages.dll
+Z:\36\SETaskv3.0\SETask\bin\System.Web.WebPages.Razor.dll
+Z:\36\SETaskv3.0\SETask\bin\WebGrease.dll
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AI.DependencyCollector.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AI.Web.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AI.WindowsServer.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.ApplicationInsights.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\36\SETaskv3.0\SETask\bin\System.Web.Helpers.xml
+Z:\36\SETaskv3.0\SETask\bin\System.Web.Mvc.xml
+Z:\36\SETaskv3.0\SETask\bin\System.Web.Optimization.xml
+Z:\36\SETaskv3.0\SETask\bin\System.Web.Razor.xml
+Z:\36\SETaskv3.0\SETask\bin\System.Web.WebPages.xml
+Z:\36\SETaskv3.0\SETask\bin\System.Web.WebPages.Deployment.xml
+Z:\36\SETaskv3.0\SETask\bin\System.Web.WebPages.Razor.xml
+Z:\36\SETaskv3.0\SETask\bin\Antlr3.Runtime.pdb
+Z:\36\SETaskv3.0\SETask\bin\Newtonsoft.Json.xml
+Z:\36\SETaskv3.0\SETask\bin\EntityFramework.xml
+Z:\36\SETaskv3.0\SETask\bin\EntityFramework.SqlServer.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.Google.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\36\SETaskv3.0\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\36\SETaskv3.0\SETask\obj\Debug\SETask.csprojResolveAssemblyReference.cache
+Z:\36\SETaskv3.0\SETask\obj\Debug\SETask.dll
+Z:\36\SETaskv3.0\SETask\obj\Debug\SETask.pdb
+Z:\36\SETaskv3.1\SETask\obj\Debug\SETask.dll
+Z:\36\SETaskv3.1\SETask\obj\Debug\SETask.pdb
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\ApplicationInsights.config
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\csc.exe
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\vbc.exe
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\SETask.dll.config
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\SETask.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\SETask.pdb
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Antlr3.Runtime.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\EntityFramework.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\EntityFramework.SqlServer.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.Web.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Newtonsoft.Json.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Owin.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Helpers.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Mvc.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Optimization.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Razor.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\WebGrease.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.Web.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Helpers.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Mvc.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Optimization.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Razor.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Antlr3.Runtime.pdb
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Newtonsoft.Json.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\EntityFramework.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\EntityFramework.SqlServer.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\obj\Debug\SETask.csprojResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\obj\Debug\SETask.dll
+C:\Users\Gavin\Desktop\SETaskv3.1\SETaskv3.1\SETask\obj\Debug\SETask.pdb
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\ApplicationInsights.config
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\csc.exe
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\vbc.exe
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\VBCSCompiler.exe
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\SETask.dll.config
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\SETask.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\SETask.pdb
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Antlr3.Runtime.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\EntityFramework.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\EntityFramework.SqlServer.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.Web.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Newtonsoft.Json.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Owin.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Helpers.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Mvc.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Optimization.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Razor.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.Razor.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\WebGrease.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.Web.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Helpers.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Mvc.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Optimization.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.Razor.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\System.Web.WebPages.Razor.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Antlr3.Runtime.pdb
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Newtonsoft.Json.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\EntityFramework.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\EntityFramework.SqlServer.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\obj\Debug\SETask.csprojResolveAssemblyReference.cache
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\obj\Debug\SETask.dll
+C:\Users\jliu0030\Downloads\SETaskvfinal\SETaskv3.1\SETaskv3.1\SETask\obj\Debug\SETask.pdb
