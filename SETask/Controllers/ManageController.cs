@@ -7,6 +7,8 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using SETask.Models;
+using System.IO;
+
 
 namespace SETask.Controllers
 {
@@ -333,7 +335,90 @@ namespace SETask.Controllers
             base.Dispose(disposing);
         }
 
-#region Helpers
+        public ActionResult Upload()
+        {
+            string userName = User.Identity.GetUserName();
+            string path = "~/UploadPic/" + userName + "/";
+            DirectoryInfo dir = new DirectoryInfo(Server.MapPath(path));
+            try
+            {
+                if (!Directory.Exists(path))
+                {
+                    Directory.CreateDirectory(path);
+                }
+            }
+            catch (Exception e)
+            {
+                ViewBag.exception = "There is no such directory";
+            }
+            return View();
+        }
+
+        [HttpPost]
+        [Authorize]
+        public ActionResult Upload(HttpPostedFileBase postedFile)
+        {
+            if (postedFile != null)
+            {
+                string userName = User.Identity.GetUserName();
+                string imagepath = "~/UploadPic/" + userName + "/";
+                string path = Server.MapPath(imagepath);
+                if (!Directory.Exists(path))
+                {
+                    Directory.CreateDirectory(path);
+                }
+                FileInfo file = new FileInfo(postedFile.FileName);
+                if (file.Extension == ".jpg" ||
+                    file.Extension == ".jpeg" ||
+                    file.Extension == ".bmp" ||
+                    file.Extension == ".gif" ||
+                    file.Extension == ".png"
+                    )
+                {
+                    postedFile.SaveAs(path + Path.GetFileName(postedFile.FileName));
+                    ViewBag.UploadInfo = "File uploaded successfully.";
+                }
+                else
+                {
+                    ViewBag.UploadInfo = "Sorry, you can't upload this file";
+                }
+            }
+
+            return View();
+        }
+
+        public FileContentResult UserPhotos()
+        {
+            string userName = User.Identity.GetUserName();
+            string path = "~/UploadPic/" + userName + "/";
+            DirectoryInfo dir = new DirectoryInfo(Server.MapPath(path));
+            try
+            {
+                var lasterFile = dir.GetFiles().OrderByDescending(c => c.LastWriteTime).First();
+                string imageInfo = path + lasterFile.Name;
+                string fileName = HttpContext.Server.MapPath(@imageInfo);
+                byte[] imageData = null;
+                FileInfo fileInfo = new FileInfo(fileName);
+                long imageFilelength = fileInfo.Length;
+                FileStream fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
+                BinaryReader br = new BinaryReader(fs);
+                imageData = br.ReadBytes((int)imageFilelength);
+                return File(imageData, "image/jpg");
+            }
+            catch (Exception ex)
+            {
+                string fileName = HttpContext.Server.MapPath(@"~/DefaultPic.jpg");
+                byte[] imageData = null;
+                FileInfo fileInfo = new FileInfo(fileName);
+                long imageFilelength = fileInfo.Length;
+                FileStream fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
+                BinaryReader br = new BinaryReader(fs);
+                imageData = br.ReadBytes((int)imageFilelength);
+                return File(imageData, "image/jpg");
+            }
+        }
+
+        #region Helpers
         // Used for XSRF protection when adding external logins
         private const string XsrfKey = "XsrfId";
 

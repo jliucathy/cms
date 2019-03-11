@@ -1,0 +1,38 @@
+﻿
+@{
+     /**/
+
+     ViewBag.Title = "Upload";
+     Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Upload</h2>
+
+<div>
+    @using (Html.BeginForm("Upload", "Manage", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <span>Select File:</span>
+        <input type="file" name="postedFile" />
+        <hr />
+        <input type="submit" value="Upload" />
+        <span>
+            @Html.ActionLink("Return to setting", "Index");
+        </span>
+        <br />
+        <span style="color:green">@ViewBag.UploadInfo</span>
+    }
+    @if (ViewBag.imageList != null)
+    {
+        foreach (var item in ViewBag.imageList)
+        {
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="@Url.Content(item)" />
+                    </div>
+                </div>
+            </div>
+        }
+    }
+
+</div>
